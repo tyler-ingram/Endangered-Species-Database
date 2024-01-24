@@ -1,0 +1,12 @@
+Panda|Ailuropoda|2239|Herbivorous,bamboo|China|Humans, snow leopards, yellow-throated martens 
+African Elephant|Loxodonta|415000|Herbivorous, grasses, leaves, twigs, tree bark and branches|South Africa|Humans, lions, hyenas, and crocodiles 
+Albino Axolotl|Ambystoma|700|Carnivores, a meat-based diet|Lake Xochimilco and Lake Chalco in the Valley of Mexico|Water pollution, tilapia and perch 
+Cheetah|Acinonyx|7100|Gazelles, impalas, ungulates|South Africa|Humans, lions, leopards, and hyenas 
+Chimpanzee|Pan|172000|Fruits, seeds, nuts, leaves, flowers and insects|Central Africa|Humans, leopards and other large hunting cats 
+Galapagos Sea Lion|Zalophus|50000|Fish, squid, octopus, and crustaceans|Galapagos Islands|Humans, sharks and killer whales 
+Gorilla|Gorilla|1063|Mainly vegetarian diet, feeding on stems, bamboo shoots and fruits|Equatorial Africa|Humans, leopards and crocodiles  
+Humpback Whale|Megaptera|80000|Krill, small crustaceans, squids, and small schooling fishes|Coasts of all oceans|Humans, sharks, and killer whales 
+Koala|Phascolarctos|43000|Eucalypt leaves and a few other related tree species, including lophostemon, melaleuca and corymbia species|Eastern Australia|Humans, dingoes, owls, large birds of pray 
+Polar Bear|Ursus|22000|Ringed and bearded seals, harp, hooded and ribbon seal|Arctic sea ice, water, islands, and continental coastlines|Humans, other polar bears 
+Orangutan|Pongo|55000|Fruit and leaves, bark, insects and, on rare occasions, meat|Borneo and Sumatra|Humans, tigers, and clouded leopards, large pythons, and crocodiles 
+Sea Otter|Enhydra|3000|Sea urchins, snails, clams, abalone, mussels, crabs, scallops, fish, barnacles, octopus, worms, and squid|Coastal waters of the North Pacific|Sea lions, killer whales, great white sharks, bears, and coyotes 
